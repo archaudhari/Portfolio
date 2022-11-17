@@ -12,7 +12,7 @@ export default function About() {
           </h1>
           <p className="mb-8 leading-relaxed">
           I fell in love with programming and I have at least learnt something, I think… 🤷‍♂️
-          My field of Interest's are building new  Web Technologies and Products 
+          My field of Interest's are building new  Web Technologies and Products
           </p>
           <div className="flex justify-center">
             <a
